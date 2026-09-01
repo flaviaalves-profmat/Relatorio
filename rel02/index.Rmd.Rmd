@@ -9,60 +9,6 @@ output:
     number_sections: true
 ---
 
-# SUMÁRIO
-
-1. [INTRODUÇÃO](#1-introdução)
-
-2. [BANCO DE DADOS](#2-banco-de-dados)
-
-   2.1 [IMPORTAÇÃO DOS DADOS](#21-importação-dos-dados)
-
-   2.2 [VERIFICAÇÃO INICIAL DO BANCO](#22-verificação-inicial-do-banco)
-
-3. [ANÁLISE UNIVARIADA](#3-análise-univariada)
-
-   3.1 [NÚMERO DE FALTAS](#31-número-de-faltas)
-
-   3.2 [NOTA MÉDIA](#32-nota-média)
-
-   3.3 [TURNO DE ESTUDO](#33-turno-de-estudo)
-
-   3.4 [ESCOLARIDADE DA MÃE](#34-escolaridade-da-mãe)
-
-   3.5 [ACESSO À INTERNET EM CASA](#35-acesso-à-internet-em-casa)
-
-4. [ANÁLISE BIVARIADA](#4-análise-bivariada)
-
-   4.1 [ACESSO À INTERNET E NOTA MÉDIA](#41-acesso-à-internet-e-nota-média)
-
-   4.2 [ESCOLARIDADE DA MÃE E DESEMPENHO](#42-escolaridade-da-mãe-e-desempenho)
-
-   4.3 [NÚMERO DE FALTAS E NOTA MÉDIA](#43-número-de-faltas-e-nota-média)
-
-   4.4 [TURNO E NÚMERO DE FALTAS](#44-turno-e-número-de-faltas)
-
-   4.5 [TURNO E NOTA MÉDIA](#45-turno-e-nota-média)
-
-5. [ANÁLISE MULTIVARIADA](#5-análise-multivariada)
-
-   5.1 [TURNO, ACESSO À INTERNET E NOTA MÉDIA](#51-turno-acesso-à-internet-e-nota-média)
-
-   5.2 [ESCOLARIDADE DA MÃE, ACESSO À INTERNET E NOTA MÉDIA](#52-escolaridade-da-mãe-acesso-à-internet-e-nota-média)
-
-   5.3 [MODELO DE REGRESSÃO LINEAR](#53-modelo-de-regressão-linear)
-
-6. [SÍNTESE DOS RESULTADOS](#6-síntese-dos-resultados)
-
-7. [RESPOSTAS ÀS QUESTÕES INVESTIGATIVAS](#7-respostas-às-questões-investigativas)
-
-8. [CONCLUSÃO](#8-conclusão)
-
-9. [LIMITAÇÕES DA ANÁLISE](#9-limitações-da-análise)
-
-10. [POSSIBILIDADES DE PESQUISAS FUTURAS](#10-possibilidades-de-pesquisas-futuras)
-
-11. [CONSIDERAÇÕES FINAIS](#11-considerações-finais)
-
 # 1. Introdução
 
 Este relatório apresenta uma análise estatística de um banco de dados composto por 1.000 alunos de uma escola pública brasileira.
@@ -979,3 +925,14 @@ Além de calcular medidas estatísticas e construir gráficos, foi possível int
 A utilização de testes estatísticos, correlação e regressão possibilitou ampliar a análise para além da simples descrição dos dados.
 
 Dessa forma, o trabalho demonstra que a estatística pode ser utilizada como instrumento de investigação e reflexão sobre problemas educacionais, contribuindo para uma melhor compreensão dos dados e para a tomada de decisões fundamentadas.
+
+# 12. Referências
+
+* Relatório do professor: https://bendeivide.github.io/profmatma41/
+
+* IA utilizada como uma ajuda: https://chatgpt.com/
+
+* Material da disciplina: https://bendeivide.github.io/courses/profmat-probest/normal2026.2/
+
+* Aula 3 – 28/08/2026
+
